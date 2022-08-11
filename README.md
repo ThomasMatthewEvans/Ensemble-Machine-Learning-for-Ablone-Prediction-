@@ -1,6 +1,6 @@
 # Hi All! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Example Projects
+# Ensemble Machine Learnign Approach to Ablone Prediction
 
 I created this repository to showcase some of my skills. Each folder contains a different project most of which are in Python or R.
 
