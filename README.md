@@ -5,6 +5,20 @@
 I created this repository to showcase some of my skills. Each folder contains a different project most of which are in Python or R.
 
 Some of the projects are
+Aim
+
+Methods 
+
+Exploration and Preparation
+![alt text](https://github.com/ThomasMatthewEvans/
+Ensemble-Machine-Learning-for-Ablone-Prediction-/blob/[branch]/pairsplot.jpg?raw=true)
+Ensemble Machine learning
+
+
+
+
+Conclusions
+
 
 one
 Statistical and machein learning in Pyton,scraping a dataset, tidying and analysing.
