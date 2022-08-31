@@ -15,11 +15,12 @@ We start by exploring, preprocessing and visualising the data. An example of thi
 Ensemble Machine learning
 
 
-We culminate in a ML model as shown below
+We culminate in a ML model as shown below. The ensemble model uses a number of kernels in isolation adn in combination, theoretically giving a superior fit.
 
 ![alt text](https://github.com/ThomasMatthewEvans/Ensemble-Machine-Learning-for-Ablone-Prediction-/blob/main/ensemble_mods.png)
 
-Conclusions
+
+Finally we assess the importanc eof each feature in the model, and suggest som furter work as this kernal is not optimal and more could be done to improve it.
 
 
 one
