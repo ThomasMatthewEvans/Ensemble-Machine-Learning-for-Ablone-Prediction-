@@ -8,16 +8,16 @@ This specific project is a simple ML approach to predictin the age of an abaloe 
 Some of the projects are
 Aim
 
-Methods 
-
-Exploration and Preparation
+We start by exploring, preprocessing and visualising the data. An example of this is the pairs plot below.
 
 
 ![alt text](https://github.com/ThomasMatthewEvans/Ensemble-Machine-Learning-for-Ablone-Prediction-/blob/main/pairsplot.jpg)
 Ensemble Machine learning
 
 
+We culminate in a ML model as shown below
 
+![alt text](https://github.com/ThomasMatthewEvans/Ensemble-Machine-Learning-for-Ablone-Prediction-/blob/main/ensemble_mods.jpg)
 
 Conclusions
 
