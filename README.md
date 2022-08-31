@@ -17,7 +17,7 @@ Ensemble Machine learning
 
 We culminate in a ML model as shown below
 
-![alt text](https://github.com/ThomasMatthewEvans/Ensemble-Machine-Learning-for-Ablone-Prediction-/blob/main/ensemble_mods.jpg)
+![alt text](https://github.com/ThomasMatthewEvans/Ensemble-Machine-Learning-for-Ablone-Prediction-/blob/main/ensemble_mods.png)
 
 Conclusions
 
