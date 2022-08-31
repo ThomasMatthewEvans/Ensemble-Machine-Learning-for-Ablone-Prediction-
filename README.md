@@ -1,9 +1,10 @@
 # Hi All! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Ensemble Machine Learnign Approach to Ablone Prediction
+# Ensemble Machine Learnign Approach to Abalone Age Prediction
 
 I created this repository to showcase some of my skills. Each folder contains a different project most of which are in Python or R.
 
+This specific project is a simple ML approach to predictin the age of an abaloe using a number of explanatory variables.
 Some of the projects are
 Aim
 
